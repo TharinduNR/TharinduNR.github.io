@@ -759,8 +759,12 @@ PORTFOLIO
 
 .item-h2,
 .item-h1 {
-    height: 100% !important;
+    /* height: 100% !important; */
     height: auto !important;
+}
+.item-w1 {
+    width: 100% !important;
+    /* width: auto !important; */
 }
 
 .post-media {
@@ -769,9 +773,11 @@ PORTFOLIO
 
 .post-media img {
     width: 100%;
+    height: 100%;
 }
 
 .isotope-item {
+
     z-index: 2;
     padding: 0;
 }
@@ -783,6 +789,7 @@ PORTFOLIO
 
 .isotope,
 .isotope .isotope-item {
+    
     /* change duration value to whatever you like */
     -webkit-transition-duration: 0.8s;
     -moz-transition-duration: 0.8s;
