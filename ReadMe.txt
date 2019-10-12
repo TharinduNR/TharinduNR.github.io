@@ -8,4 +8,5 @@ Co-Supervisor:   Dr. Nuwan Kodagoda
 
 
 * Home page is index.html
+* https://tharindunr.github.io/
 * You can see, Contact Us section is with the About Us page
